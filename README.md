@@ -13,11 +13,11 @@
 
 ## Overview
 
-This project documents how I investigated and worked through a Linux compatibility issue that prevented Diablo IV from launching after the Season 14 update.
+When Diablo IV stopped launching after the Season 14 update, I decided to investigate the problem instead of waiting for an official fix.
 
-Instead of waiting for an official fix, I wanted to understand what was causing the problem and learn how Proton and Wine work. Along the way I researched community solutions, tested different Proton versions, built patched Wine DLLs, and created a custom Steam compatibility tool.
+My goal was to understand why the game stopped working and learn more about how Proton and Wine interact on Linux. During the troubleshooting process I researched community solutions, tested multiple Proton versions, built patched Wine DLLs, and created a custom Steam compatibility tool.
 
-This repository serves as both my documentation and a learning project.
+I created this repository to document the troubleshooting process, record what I learned, and have a reference for future Linux compatibility issues.
 
 ---
 
