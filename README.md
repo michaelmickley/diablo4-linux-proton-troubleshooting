@@ -1,5 +1,16 @@
 # Diablo IV on Linux: Proton Troubleshooting and Custom Wine Workaround
 
+## Table of Contents
+
+- [My System](#my-system)
+- [The Problem](#the-problem)
+- [Research](#research)
+- [Troubleshooting Process](#troubleshooting-process)
+- [What I Learned](#what-i-learned)
+- [Skills Used](#skills-used)
+- [Current Status](#current-status)
+- [Result](#result)
+
 ## Overview
 
 This project documents how I investigated and worked through a Linux compatibility issue that prevented Diablo IV from launching after the Season 14 update.
@@ -22,7 +33,7 @@ This repository serves as both my documentation and a learning project.
 
 ---
 
-# The Problem
+## The Problem
 
 After the Season 14 update, Diablo IV would no longer start on Linux.
 
@@ -43,7 +54,7 @@ Procedure not found
 
 ---
 
-# My Goal
+## My Goal
 
 Rather than waiting for an official update, I wanted to:
 
@@ -55,7 +66,7 @@ Rather than waiting for an official update, I wanted to:
 
 ---
 
-# Investigation Timeline
+## Investigation Timeline
 
 ## Initial Checks
 
@@ -115,7 +126,7 @@ This allowed me to better understand how Proton is structured and how Steam comp
 
 ---
 
-# What I Learned
+## What I Learned
 
 Before this project I had never:
 
@@ -128,7 +139,7 @@ This project gave me experience reading technical documentation, following build
 
 ---
 
-# Skills Used
+## Skills Used
 
 - Linux
 - Bash
@@ -145,7 +156,7 @@ This project gave me experience reading technical documentation, following build
 
 ---
 
-# Current Status
+## Current Status
 
 The project is still ongoing while official Proton fixes continue to be released.
 
