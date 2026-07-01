@@ -1,4 +1,4 @@
-# Diablo IV Linux Troubleshooting Project
+# Diablo IV on Linux: Proton Troubleshooting and Custom Wine Workaround
 
 ## Overview
 
