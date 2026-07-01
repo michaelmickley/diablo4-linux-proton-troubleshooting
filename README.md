@@ -150,3 +150,11 @@ This project gave me experience reading technical documentation, following build
 The project is still ongoing while official Proton fixes continue to be released.
 
 Regardless of the final solution, this project has been valuable for learning Linux troubleshooting and documenting my process.
+
+---
+
+## Result
+
+After building the patched Wine DLLs and creating a custom Proton compatibility tool, Diablo IV successfully launched on Pop!_OS without replacing my existing Proton installation.
+
+![Diablo IV Running](screenshots/04-game-working.png)
